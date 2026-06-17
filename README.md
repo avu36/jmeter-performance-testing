@@ -1,9 +1,9 @@
 # Báo cáo Bài tập Kiểm thử Hiệu năng với Apache JMeter
 
 ## Thông tin sinh viên
-- **Họ và tên**: [Nhập họ tên của bạn]
-- **MSSV**: [Nhập MSSV]
-- **Lớp**: [Nhập lớp học]
+- **Họ và tên**: Đỗ Nguyên Anh Vũ
+- **MSSV**:23010334
+- **Lớp**: CSE703010-1-3-25(COUR01.LT3)
 - **Môn học**: Kiểm thử Phần mềm / Performance Testing
 
 ## Mục tiêu bài tập
